@@ -15,10 +15,15 @@ namespace MinimalApiMongoDb.Domains
         [BsonElement("Status")]
         public string Status { get; set; }
 
-        [BsonElement("Product")] 
-        public Product Product { get; set;}
+        //referencia aos produtos do pedido
+        [BsonElement("productId")]
+        public List<string>? ProductId { get; set;}
+        public List<Product>? Products { get; set;}
 
-        [BsonElement("Client")]
-        public Client Client { get; set; }
+
+        //referencia ao cliente que esta fazendo o pedido
+        [BsonElement("clientId")]
+        public string? ClientId { get; set; }   
+        public Client? Clients { get; set; }
     }
 }

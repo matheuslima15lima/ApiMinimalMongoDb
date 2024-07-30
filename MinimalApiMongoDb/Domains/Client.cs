@@ -10,7 +10,7 @@ namespace MinimalApiMongoDb.Domains
         public string? Id { get; set; }
 
 
-        [BsonElement("UserId"), BsonRepresentation(BsonType.ObjectId)]
+        [BsonElement("UserId")]
         public string UserId { get; set; }  
 
         [BsonElement("Name")] 
