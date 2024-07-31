@@ -58,6 +58,23 @@ namespace MinimalApiMongoDb.Controllers
             try
             {
                 var orders = await _order.Find(FilterDefinition<Order>.Empty).ToListAsync();
+
+                //Foreach para achar o produto na lista
+                foreach (var order in orders)
+                {
+                    if(order.ProductId != null)
+                    {
+                        //filter para procurar os produtos na collection de produtos
+                        var filter = Builders<Product>.Filter.In(p => p.Id, order.ProductId);
+
+                        order.Products = await _product.Find(filter).ToListAsync();
+                    }
+
+                    if(order.ClientId != null)
+                    {
+                        order.Clients= await _client.Find(x=> x.Id ==order.ClientId).FirstOrDefaultAsync();
+                    }
+                }
                 return Ok(orders);
             }
             catch (Exception e)
@@ -82,7 +99,23 @@ namespace MinimalApiMongoDb.Controllers
                 //order.ClientId = orderViewModel.ClientId;
 
 
-                var orders = await _order.Find(x => x.Id == id).FirstOrDefaultAsync();
+                var orders = await _order.Find(x => x.Id == id).ToListAsync();
+
+
+                foreach (var order in orders)
+                {
+                    if (order.ProductId != null)
+                    {
+                        var filter = Builders<Product>.Filter.In(p => p.Id, order.ProductId);
+
+                        order.Products = await _product.Find(filter).ToListAsync();
+                    }
+
+                    if (order.ClientId != null)
+                    {
+                        order.Clients = await _client.Find(x => x.Id == order.ClientId).FirstOrDefaultAsync();
+                    }
+                }
 
                 return orders is not null ? Ok(orders) : NotFound();
             }
