@@ -1,0 +1,14 @@
+C:\Users\46447568812\Desktop\ApiExercicios\Email\bin\Debug\net8.0\Email.exe
+C:\Users\46447568812\Desktop\ApiExercicios\Email\bin\Debug\net8.0\Email.deps.json
+C:\Users\46447568812\Desktop\ApiExercicios\Email\bin\Debug\net8.0\Email.runtimeconfig.json
+C:\Users\46447568812\Desktop\ApiExercicios\Email\bin\Debug\net8.0\Email.dll
+C:\Users\46447568812\Desktop\ApiExercicios\Email\bin\Debug\net8.0\Email.pdb
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.AssemblyInfoInputs.cache
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.AssemblyInfo.cs
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.csproj.CoreCompileInputs.cache
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.dll
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\refint\Email.dll
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.pdb
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\Email.genruntimeconfig.cache
+C:\Users\46447568812\Desktop\ApiExercicios\Email\obj\Debug\net8.0\ref\Email.dll

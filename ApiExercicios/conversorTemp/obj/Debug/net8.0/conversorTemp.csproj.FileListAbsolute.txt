@@ -1,0 +1,14 @@
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\bin\Debug\net8.0\conversorTemp.exe
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\bin\Debug\net8.0\conversorTemp.deps.json
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\bin\Debug\net8.0\conversorTemp.runtimeconfig.json
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\bin\Debug\net8.0\conversorTemp.dll
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\bin\Debug\net8.0\conversorTemp.pdb
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.AssemblyInfoInputs.cache
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.AssemblyInfo.cs
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.csproj.CoreCompileInputs.cache
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.dll
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\refint\conversorTemp.dll
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.pdb
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\conversorTemp.genruntimeconfig.cache
+C:\Users\46447568812\Desktop\ApiExercicios\conversorTemp\obj\Debug\net8.0\ref\conversorTemp.dll

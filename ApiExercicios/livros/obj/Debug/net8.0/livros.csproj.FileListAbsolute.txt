@@ -1,0 +1,14 @@
+C:\Users\46447568812\Desktop\ApiExercicios\livros\bin\Debug\net8.0\livros.exe
+C:\Users\46447568812\Desktop\ApiExercicios\livros\bin\Debug\net8.0\livros.deps.json
+C:\Users\46447568812\Desktop\ApiExercicios\livros\bin\Debug\net8.0\livros.runtimeconfig.json
+C:\Users\46447568812\Desktop\ApiExercicios\livros\bin\Debug\net8.0\livros.dll
+C:\Users\46447568812\Desktop\ApiExercicios\livros\bin\Debug\net8.0\livros.pdb
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.AssemblyInfoInputs.cache
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.AssemblyInfo.cs
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.csproj.CoreCompileInputs.cache
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.dll
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\refint\livros.dll
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.pdb
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\livros.genruntimeconfig.cache
+C:\Users\46447568812\Desktop\ApiExercicios\livros\obj\Debug\net8.0\ref\livros.dll
