@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+tKte03oX+A8FkEFYY1GCnAQMHtnTtQ+f5vyII+Yq0QgmFhuhBp0PzlfUv6k7yaOVdiu/h2FQJc4uofxoYkRrw==",
+  "dgSpecHash": "GnUjnze8jHPYstKV0EZcKPytpjaoP0XHmwbrH1SbsZpC1Z4nqIoaxVdUXykdTgHAfvvlIx8h4cM7xqe55ryudA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\email.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

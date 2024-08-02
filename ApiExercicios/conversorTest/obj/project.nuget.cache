@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "84IxbzTgMRUbqokZvJ1vtds4GE8N1NcKKKG1s7Aw+Tly0dJszK7nZ6Fk2u7WPNhCl+xN1GkOFkvnHPb4e8ylNw==",
+  "dgSpecHash": "0Wwpn5JqBCGFCiKdl3HiZ6pZie6hZg4lvJDpsvXx2uJ/f1hcjpmAQ9LTd2sbnOfLOXYwlP4Hzh/zKdsNET+ixw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\conversorTest\\conversorTest.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\conversorTest\\conversorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46447568812\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\46447568812\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

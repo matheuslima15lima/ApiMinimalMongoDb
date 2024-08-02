@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nE93c08hXTfV7QrSAFgNyuFEXaHZDG2GibT4yw9lqsLy0k81igIJAfEs4n8ONfaGv2UrLXwZPGzNyzntbXhDwQ==",
+  "dgSpecHash": "rohF5sGmnOGMsLjyghBWUPfXMqltE0EZr9Fpcb1Msi7OkWfOHwooh91hq0CgUmQbVNMTUv0eCrNGax/QWpYbNw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\conversorTemp\\conversorTemp.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\conversorTemp\\conversorTemp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

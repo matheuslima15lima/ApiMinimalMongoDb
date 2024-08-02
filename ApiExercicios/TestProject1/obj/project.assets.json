@@ -5540,11 +5540,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\TestProject1\\livrosTest.csproj",
+      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\TestProject1\\livrosTest.csproj",
       "projectName": "livrosTest",
-      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\TestProject1\\livrosTest.csproj",
+      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\TestProject1\\livrosTest.csproj",
       "packagesPath": "C:\\Users\\46447568812\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\TestProject1\\obj\\",
+      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5565,8 +5565,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\livros\\livros.csproj": {
-              "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\livros\\livros.csproj"
+            "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\livros\\livros.csproj": {
+              "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\livros\\livros.csproj"
             }
           }
         }

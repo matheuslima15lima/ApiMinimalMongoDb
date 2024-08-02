@@ -1023,7 +1023,7 @@
       "xunit.runner.visualstudio/2.4.5": {},
       "email/1.0.0": {
         "runtime": {
-          "Email.dll": {}
+          "email.dll": {}
         }
       }
     }

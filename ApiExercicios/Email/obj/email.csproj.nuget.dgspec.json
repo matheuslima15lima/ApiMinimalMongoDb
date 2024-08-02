@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\email.csproj": {}
+    "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj": {}
   },
   "projects": {
-    "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\email.csproj": {
+    "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\email.csproj",
+        "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj",
         "projectName": "email",
-        "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\email.csproj",
+        "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj",
         "packagesPath": "C:\\Users\\46447568812\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\obj\\",
+        "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

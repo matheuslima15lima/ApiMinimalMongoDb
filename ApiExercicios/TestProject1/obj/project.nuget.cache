@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aBxdPCdL+AvswONU5d+ITC4mTpaypdf3NgWqhHInfW5z96Qq80c6zE6IaNkCt32OtPcQrbtTWV63kGgSdrdUVg==",
+  "dgSpecHash": "xlBVt9JSLH7UlMibAcMwsy1M0rZhZnv3FSBnmm1H1+yHmAH6AGJeTBcCwcyx0Kd+Y2S1qjTzahVBW9vdb86tKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\TestProject1\\livrosTest.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\TestProject1\\livrosTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46447568812\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\46447568812\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

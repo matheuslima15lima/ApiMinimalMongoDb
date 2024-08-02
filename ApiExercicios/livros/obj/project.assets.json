@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\livros\\livros.csproj",
+      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\livros\\livros.csproj",
       "projectName": "livros",
-      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\livros\\livros.csproj",
+      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\livros\\livros.csproj",
       "packagesPath": "C:\\Users\\46447568812\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\livros\\obj\\",
+      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\livros\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

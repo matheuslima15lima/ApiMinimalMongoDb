@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/mYQLV7CaLvkggxZ6y1ci1b3JcLGdHkBGBi7DRCXKV2iwWUCojftDuuqupw38F9jn96bH7mD4f3tKVXZQfQtBg==",
+  "dgSpecHash": "nR6byhb7UXunFfYl7h3prn2EYutoPs1IYzxRDFTBZpt4jwB61fnxu6caQsPQNq0MoSx0cwhW/u+Z5SuGjM6KsA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Inventario\\Inventario.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Inventario\\Inventario.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

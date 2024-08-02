@@ -5524,11 +5524,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\Api\\Exercicios\\Exercicios.csproj",
+      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Exercicios\\Exercicios.csproj",
       "projectName": "Exercicios",
-      "projectPath": "C:\\Users\\46447568812\\Desktop\\Api\\Exercicios\\Exercicios.csproj",
+      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Exercicios\\Exercicios.csproj",
       "packagesPath": "C:\\Users\\46447568812\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46447568812\\Desktop\\Api\\Exercicios\\obj\\",
+      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Exercicios\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

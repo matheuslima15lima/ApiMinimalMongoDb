@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "13ji1UfmGIJS4cFPn944Cr3wKyhFPaswGr0geBHsvN1WI4DsRPRql6WfqefPpEc41Se442E1NWMN2eLtLuXo7A==",
+  "dgSpecHash": "POZ/OHau9m0WE/SnmHOzoBQAnzxbtNPc8Gd229992ZksI2niGV7qEcb2B1tFgMhq6sqrolyMHo0vFtzvjldDZg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\emailTest\\emailTest.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\emailTest\\emailTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\46447568812\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\46447568812\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

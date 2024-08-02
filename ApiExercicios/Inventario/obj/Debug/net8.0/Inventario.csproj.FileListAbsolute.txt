@@ -1,0 +1,15 @@
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\bin\Debug\net8.0\Inventario.exe
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\bin\Debug\net8.0\Inventario.deps.json
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\bin\Debug\net8.0\Inventario.runtimeconfig.json
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\bin\Debug\net8.0\Inventario.dll
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\bin\Debug\net8.0\Inventario.pdb
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfoInputs.cache
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.AssemblyInfo.cs
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.csproj.CoreCompileInputs.cache
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.sourcelink.json
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.dll
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\refint\Inventario.dll
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.pdb
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\Inventario.genruntimeconfig.cache
+C:\Users\46447568812\Desktop\ApiMinimalMongoDb\ApiExercicios\Inventario\obj\Debug\net8.0\ref\Inventario.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\Email.csproj",
-      "projectName": "Email",
-      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\Email.csproj",
+      "projectUniqueName": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj",
+      "projectName": "email",
+      "projectPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\email.csproj",
       "packagesPath": "C:\\Users\\46447568812\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\Email\\obj\\",
+      "outputPath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\Email\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

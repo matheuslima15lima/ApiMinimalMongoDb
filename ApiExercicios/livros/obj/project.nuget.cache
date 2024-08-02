@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4vB2HNF46AB3xoTMtMv35gbw1ZOfEWsdUJU4umNBFYw58HGcuXzyftFRX2F7oZlM2LhmLRlC1eEYEkWt+J0siQ==",
+  "dgSpecHash": "KqssfNIfAf4hbT+iRyp3yWg5LeX3LgRNkHsjy0YOzu50kGYHWD4h7C4/Qy6TKVzh8gbqXbcbD6OXHShdjKHbhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiExercicios\\livros\\livros.csproj",
+  "projectFilePath": "C:\\Users\\46447568812\\Desktop\\ApiMinimalMongoDb\\ApiExercicios\\livros\\livros.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
